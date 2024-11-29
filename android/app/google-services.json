@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402589289662",
+    "project_id": "python-216da",
+    "storage_bucket": "python-216da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402589289662:android:441bcf343b63faa167a2ef",
+        "android_client_info": {
+          "package_name": "com.example.python_compiler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRQ7Oiv6PWRfWiFu-s45qpYuSY6GXcOcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
